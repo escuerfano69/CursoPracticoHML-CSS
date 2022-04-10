@@ -1,0 +1,11 @@
+Introducción al Curso
+.
+Herramientas que utilizaremos:
+• Visual Code Studios, el editor de código.
+• Chrome, el navegador.
+.
+Repaso:
+• HTML5, nos ayuda a estructurar la información que nosotros mostraremos a los usuarios mediante el proyecto. Se trabaja con etiquetas, cuando son etiquetas contenedoras se abren y se cierran, pero si son de contenido no siempre se cierran.
+• CSS3, nos ayuda a dar estilos y presentar nuestro proyecto. Sus herramientas son; un selector que normalmente es la etiqueta, una declaración es una propiedad y su valor.
+.
+Nota: HTML5 y CSS3, no son lenguajes de programación como JavaScript
