@@ -50,10 +50,30 @@ main{
 
 main .main-logo{
     width:530px;
-    margin: auto;
+    margin: 0 auto;
     margin-bottom: 35px; 
 }
 main section .img-logo{
     height: 92px;
     width: 272px;
+}
+main .main-input{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    outline: none;
+}
+main .main-input-container{
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .main-input input{
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
 }
