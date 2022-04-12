@@ -27,12 +27,10 @@ header nav .header-nav-ul{
     justify-content: center;
     align-items: center ;
 }
-
 nav ul .header-nav-ul-li a{
     margin-right: 10px;
     color: black;
 }
-
 .menu-icon{
     background-image: url("../assets/menu.png");
     background-repeat: no-repeat;
@@ -41,9 +39,21 @@ nav ul .header-nav-ul-li a{
     width: 25px;
     height: 25px;
 }
-
 nav ul li img{
     border-radius: 50px;
     margin-left: 5px;
+}
+main{
+    margin-top: 150px;
+    text-align: center;
+}
 
+main .main-logo{
+    width:530px;
+    margin: auto;
+    margin-bottom: 35px; 
+}
+main section .img-logo{
+    height: 92px;
+    width: 272px;
 }
